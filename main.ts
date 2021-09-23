@@ -88,36 +88,3 @@ myCar.electronics()
 
 
 
-
-// let varibles: number | string | boolean
-// class Auto {
-//
-//     // воно як константа,
-//     // ніхто не може це змінити
-//     // крім як в конструкторі
-//     readonly  age: number = 23;
-//
-//
-// }
-//
-//
-//
-//
-//
-//
-//
-//
-// interface IUser {
-//     id: number;
-//     name: string;
-//     email: string;
-//     phone: number;
-//     website: string;
-//     address: IAddress;
-// }
-//
-//
-// interface IAddress {
-//     street: string;
-//     city: string;
-// }
